@@ -1,0 +1,17 @@
+
+
+.body{
+    background-color: cadetblue;
+}
+
+
+.prezzo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+  }
+  .prezzo h3, p {
+    margin-left: 10px;
+  }
